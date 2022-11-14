@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/IGBC-CET/static/css/main.d966ca4f.css",
+    "main.js": "/IGBC-CET/static/js/main.65331bbd.js",
+    "static/js/787.b7a94419.chunk.js": "/IGBC-CET/static/js/787.b7a94419.chunk.js",
+    "static/media/Green-building.jpg": "/IGBC-CET/static/media/Green-building.bdca6a4377032d703687.jpg",
+    "index.html": "/IGBC-CET/index.html",
+    "main.d966ca4f.css.map": "/IGBC-CET/static/css/main.d966ca4f.css.map",
+    "main.65331bbd.js.map": "/IGBC-CET/static/js/main.65331bbd.js.map",
+    "787.b7a94419.chunk.js.map": "/IGBC-CET/static/js/787.b7a94419.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d966ca4f.css",
+    "static/js/main.65331bbd.js"
+  ]
+}
