@@ -1,0 +1,36 @@
+.heading {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    font-size: 2.5rem;
+    color: #707070;
+    padding: 2rem 0;
+    text-decoration: underline;
+    text-decoration-color: #3D9E69;
+    text-underline-offset: 10px;
+    text-align: center;
+    -moz-text-decoration-color: #3D9E69;
+}
+
+.content {
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 500;
+    padding: 2rem 5.5rem 2rem 5.5rem;
+    line-height: 3rem;
+}
+
+$breakpoint-tablet: 900px;
+
+@media only screen and (max-width: $breakpoint-tablet) {
+  .heading {
+    font-size: 1.75rem;
+    padding: 1rem 0;
+  }
+
+  .content {
+      font-size: 1.2rem;
+      padding: 1.5rem 2.25rem 3rem 2.25rem;
+      line-height: 2.5rem;
+  }
+}

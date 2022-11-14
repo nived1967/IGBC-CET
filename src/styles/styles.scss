@@ -1,0 +1,43 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins';
+    background-color: transparent;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.bg {
+  background-color: #E5EADD;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #096633ab;
+  border-radius: 5px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #096633ab;
+}
+
+@import "header";
+@import "about";
+@import "contact";
+@import "footer";
+@import "team";
+@import "events";

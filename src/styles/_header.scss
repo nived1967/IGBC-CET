@@ -1,0 +1,136 @@
+$background-image-path: "../assets/images/Green-building.jpg";
+
+.landpage-container {
+  background-image: linear-gradient(to left,transparent, 
+    rgba(0,0,0,0.7) 0%, 
+    rgba(0,0,0,0.7) 40%, 
+    rgba(11, 105, 74, 0.9) 80%, 
+    rgba(11, 105, 74, 0.9) 100%),
+    url($background-image-path);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+.navbar {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  display: flex;
+  height: 9rem;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+}
+
+.logo {
+  padding-left: 8rem;
+  height: 5rem;
+  object-fit: cover;
+
+  img {
+    width: auto;
+    height: 6rem;
+    object-fit: cover;
+
+
+    &:hover {
+      transform: scale(1.05);
+      transition-duration: 500ms;
+    }
+  }
+}
+
+.nav-link-container {
+  min-width: 50%;
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 1.5rem;
+  padding-right: 1rem;
+}
+
+
+.nav-link {
+  text-decoration: none;
+  color: white;
+
+  &:hover {
+    color: #3D9E69;
+    transform: scale(1.1);
+    transition-duration: 500ms;
+  }
+
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.column {
+  flex: 50%;
+  display: flex;
+  height: 75vh;
+  align-items: center;
+  padding-left: 8rem;
+}
+
+.home-content {
+  font-size: 3rem;
+}
+
+$breakpoint-tablet: 900px;
+
+@media only screen and (max-width: $breakpoint-tablet) {
+  .landpage-container {
+    background-image: linear-gradient(to top,transparent,
+      rgba(0,0,0,0.7) 0%, 
+      rgba(0,0,0,0.7) 40%, 
+      rgba(11, 105, 74, 0.9) 80%, 
+    rgba(11, 105, 74, 0.9) 100%), 
+      url($background-image-path);
+  }
+
+  .navbar {
+    flex-direction: column;
+    width: 100%;
+    height: auto;
+    align-items: center;
+  }
+  
+  .logo {
+    padding-left: 0;
+
+    img {
+      height: 4rem;
+    }
+  }
+  
+  .nav-link-container {
+    font-size: 1.15rem;
+    padding-right: 0;
+  }
+  
+  
+  .nav-link {
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+
+  .home-content {
+    font-size: 2.5rem;
+  }
+
+  .column {
+    flex: 100%;
+    padding-left: 0;
+    justify-content: center;
+    text-align: center;
+    margin: 0 3rem;
+    &:last-child {
+      display: none;
+    }
+  }
+}
