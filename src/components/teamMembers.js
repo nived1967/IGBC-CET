@@ -103,7 +103,7 @@ const members = [
     },
     {
         name: "Amir",
-        photo: "https://raw.githubusercontent.com/nived1967/IGBC-CET/main/public/assets/images/members/usman.jpeg",
+        photo: "",
         alt: "Amir",
         title: "IGBC Volunteer"
     },
