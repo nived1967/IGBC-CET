@@ -97,7 +97,7 @@ const members = [
     },
     {
         name: "Muhammad Shaham",
-        photo: "1.jpg",
+        photo: "",
         alt: "Muhammad Shaham",
         title: "Staff Coordinator"
     },
