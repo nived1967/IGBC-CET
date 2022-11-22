@@ -13,13 +13,13 @@ const members = [
     },
     {
         name: "Arundhati Baiju",
-        photo: "images/members/02.png",
+        photo: "https://raw.githubusercontent.com/nived1967/IGBC-CET/main/public/assets/images/members/9fc13d46-0a06-4b46-b7da-c503cc52f700.jpg",
         alt: "Abhiram V M",
         title: "IGBC Volunteer"
     },
     {
         name: "Devakrishna Jayadevan",
-        photo: "images/members/03.png",
+        photo: "https://raw.githubusercontent.com/nived1967/IGBC-CET/main/public/assets/images/members/561e26f9-70ae-413c-b5cd-3dd1ff708631.jpg",
         alt: "Devakrishna Jayadevan",
         title: "IGBC Volunteer"
     },
@@ -31,7 +31,7 @@ const members = [
     },
     {
         name: "Hiba Fathima",
-        photo: "images/members/05.png",
+        photo: "https://raw.githubusercontent.com/nived1967/IGBC-CET/main/public/assets/images/members/578af40c-e339-433d-83d8-bc4e7453c48a.jpg",
         alt: "Hiba Fathima",
         title: "IGBC Volunteer"
     },
@@ -43,7 +43,7 @@ const members = [
     },
     {
         name: "Nived Narayanan",
-        photo: "images/members/07.png",
+        photo: "https://raw.githubusercontent.com/nived1967/IGBC-CET/main/public/assets/images/members/nived.jpg",
         alt: "Nived Narayanan",
         title: "IGBC Volunteer"
     },
@@ -55,7 +55,7 @@ const members = [
     },
     {
         name: "Sreelal K",
-        photo: "images/members/09.png",
+        photo: "https://raw.githubusercontent.com/nived1967/IGBC-CET/main/public/assets/images/members/0f253f41-9183-420d-99bc-bcef09f1854b.jpg",
         alt: "Sreelal K",
         title: "IGBC Volunteer"
     },
@@ -95,6 +95,42 @@ const members = [
         alt: "Ajith Chandran",
         title: "IGBC Volunteerr"
     },
+    {
+        name: "Muhammad Shaham",
+        photo: "1.jpg",
+        alt: "Muhammad Shaham",
+        title: "Staff Coordinator"
+    },
+    {
+        name: "Amir",
+        photo: "https://raw.githubusercontent.com/nived1967/IGBC-CET/main/public/assets/images/members/usman.jpeg",
+        alt: "Amir",
+        title: "IGBC Volunteer"
+    },
+    {
+        name: "Mohammed Hashir K B",
+        photo: "https://raw.githubusercontent.com/nived1967/IGBC-CET/main/public/assets/images/members/WhatsApp%20Image%202022-11-21%20at%2010.27.20%20AM.jpeg",
+        alt: "Mohammed Hashir K B",
+        title: "IGBC Volunteer"
+    },
+    {
+        name: "Sayed Amir Maqbool",
+        photo: "https://raw.githubusercontent.com/nived1967/IGBC-CET/main/public/assets/images/members/55e37dde-3cdf-4cf1-bf8a-7efa1b6567f2.jpg",
+        alt: "Devakrishna Jayadevan",
+        title: "IGBC Volunteer"
+    },
+    {
+        name: "Aiswarya Achuthan",
+        photo: "https://raw.githubusercontent.com/nived1967/IGBC-CET/main/public/assets/images/members/IMG-20221018-WA0016.jpg",
+        alt: "Aiswarya Achuthan",
+        title: "IGBC Volunteer"
+    },
+    {
+        name: "Niloopher Shirin",
+        photo: "https://raw.githubusercontent.com/nived1967/IGBC-CET/main/public/assets/images/members/WhatsApp%20Image%202022-11-21%20at%2010.43.05%20AM.jpeg",
+        alt: "Niloopher Shirin",
+        title: "IGBC Volunteer"
+    }
 ]
 export default members;
 

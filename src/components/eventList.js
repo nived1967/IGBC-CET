@@ -13,6 +13,13 @@ const events = [
         link: "",
         alt: ""
     },
+    {
+        image: 'https://raw.githubusercontent.com/nived1967/IGBC-CET/main/public/assets/images/members/21ec6b3b-7606-4e57-896f-2ad45c78b22d.jpg',
+        description: "Inaugration of IGBC CET student chapter",
+        upcoming: false,
+        link: "",
+        alt: ""
+    },
 ]
 
 export default events;
