@@ -1,6 +1,6 @@
 const events = [
     {
-        image: 'images/events/E1.jpg', //place  Image in the "images/events/" and give that address to image to change the image
+        image: '../../public/assets/images/events/WhatsApp Image 2022-11-21 at 4.16.34 AM (1).jpeg', //place  Image in the "images/events/" and give that address to image to change the image
         description: "Student members at Green Building Congress held at HICC Hyderabad.", // change the text of event image
         upcoming: false,             // upcoming means true, Button for registration will appear in Events.
         link: "",
@@ -11,7 +11,7 @@ const events = [
         description: "Dr. Roy M Thomas and Principal Dr.M R R Panicker planting tree saplings on World Environment Day.",
         upcoming: false,
         link: "",
-        alt: ""            
+        alt: ""
     },
     {
         image: 'images/events/E3.jpg',

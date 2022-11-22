@@ -1,105 +1,99 @@
 const members = [
     {
-        name: "Dr. Roy M Thomas",
-        photo: "images/members/00.jpeg",
-        alt: "Dr. Roy M Thomas",
+        name: "Dr. Aysha",
+        photo: "1.jpg",
+        alt: "Dr. Aysha",
         title: "Staff Coordinator"
     },
     {
-        name: "Anzila A N",
-        photo: "images/members/01.png",
-        alt: "Anzila A N",
-        title: "President"
+        name: "Usman A Asan",
+        photo: "../../public/assets/images/members/usman.jpeg",
+        alt: "Usman A Asan",
+        title: "IGBC Volunteer"
     },
     {
-        name: "Ivin Antony",
+        name: "Arundhati Baiju",
         photo: "images/members/02.png",
         alt: "Abhiram V M",
-        title: "Vice President"
+        title: "IGBC Volunteer"
     },
     {
-        name: "Kadeeja Sahala",
+        name: "Devakrishna Jayadevan",
         photo: "images/members/03.png",
-        alt: "Kadeeja Sahala",
-        title: "Secretary"
+        alt: "Devakrishna Jayadevan",
+        title: "IGBC Volunteer"
     },
     {
-        name: "Mirsab N",
+        name: "Diya Ann Joy",
         photo: "images/members/04.png",
-        alt: "Mirsab N",
-        title: "Joint Secretary"
+        alt: "Diya Ann Joy",
+        title: "IGBC Volunteer"
     },
     {
-        name: "Aleena U",
+        name: "Hiba Fathima",
         photo: "images/members/05.png",
-        alt: "Aleena U",
-        title: "Treasurer"
+        alt: "Hiba Fathima",
+        title: "IGBC Volunteer"
     },
     {
-        name: "Immanuel",
+        name: "Haritha Nair S H",
         photo: "images/members/06.png",
-        alt: "Immanuel",
-        title: "Public Relations"
+        alt: "Haritha Nair S H",
+        title: "IGBC Volunteer"
     },
     {
-        name: "Abhiram V M",
+        name: "Nived Narayanan",
         photo: "images/members/07.png",
-        alt: "Abhiram V M",
-        title: "Public Relations"
+        alt: "Nived Narayanan",
+        title: "IGBC Volunteer"
     },
     {
-        name: "Adithyan A J",
+        name: "Abhinav K",
         photo: "images/members/08.png",
-        alt: "Adithyan A J",
-        title: "Media and Design"
+        alt: "Abhinav K",
+        title: "IGBC Volunteer"
     },
     {
-        name: "Naheel Muhammed",
+        name: "Sreelal K",
         photo: "images/members/09.png",
-        alt: "Naheel Muhammed",
-        title: "Media and Design"
+        alt: "Sreelal K",
+        title: "IGBC Volunteer"
     },
     {
-        name: "Athul S",
+        name: "Hala P A",
         photo: "images/members/10.png",
-        alt: "Athul S",
-        title: "Event Coordinator"
+        alt: "Hala P A",
+        title: "IGBC Volunteer"
     },
     {
-        name: "Aleena K",
+        name: "Akshay Shajy",
         photo: "images/members/11.png",
-        alt: "Aleena K",
-        title: "Event Coordinator"
+        alt: "Akshay Shajy",
+        title: "IGBC Volunteer"
     },
     {
-        name: "Abhina Sajeesh",
+        name: "Jithu Issac",
         photo: "images/members/12.png",
-        alt: "Abhina Sajeesh",
-        title: "Editorial"
+        alt: "Jithu Issac",
+        title: "IGBC Volunteer"
     },
     {
-        name: "Hanna Jaison",
+        name: "Abhijith A K",
         photo: "images/members/13.png",
-        alt: "Hanna Jaison",
-        title: "Editorial"
+        alt: "Abhijith A K",
+        title: "IGBC Volunteer"
     },
     {
-        name: "Midhuna Pavithran",
+        name: "Bapsy Ben",
         photo: "images/members/14.png",
-        alt: "Midhuna Pavithran",
-        title: "Executive Member"
+        alt: "Bapsy Ben",
+        title: "IGBC Volunteer"
     },
     {
-        name: "Sreelakshmi J",
+        name: "Ajith Chandran",
         photo: "images/members/15.png",
-        alt: "Sreelakshmi J",
-        title: "Executive Member"
-    },
-    {
-        name: "Mahadev",
-        photo: "images/members/16.png",
-        alt: "Mahadev",
-        title: "Executive Member"
+        alt: "Ajith Chandran",
+        title: "IGBC Volunteerr"
     },
 ]
 export default members;

@@ -1,6 +1,7 @@
 {
   "name": "igbc_cet",
   "version": "0.1.0",
+  "homepage": "https://nived1967.github.io/IGBC-CET",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",

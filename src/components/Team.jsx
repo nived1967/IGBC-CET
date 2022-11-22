@@ -12,11 +12,11 @@ function Team() {
                     members.slice(0,1).map((member, index) => {
                             return (
                                 <div className="card">
-                                    <img src={member.photo} alt={member.alt} />
+                                    <img src={"https://raw.githubusercontent.com/nived1967/IGBC-CET/main/src/assets/images/Green-building.jpg"} alt={member.alt} />
                                     <h2>{member.name}</h2>
                                     <p>{member.title}</p>
                                 </div>
-                            )    
+                            )
                         }
                     )
                 }
