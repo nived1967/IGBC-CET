@@ -7,7 +7,7 @@ const members = [
     },
     {
         name: "Usman A Asan",
-        photo: "../../public/assets/images/members/usman.jpeg",
+        photo: "https://raw.githubusercontent.com/nived1967/IGBC-CET/main/public/assets/images/members/usman.jpeg",
         alt: "Usman A Asan",
         title: "IGBC Volunteer"
     },
@@ -25,7 +25,7 @@ const members = [
     },
     {
         name: "Diya Ann Joy",
-        photo: "images/members/04.png",
+        photo: "https://raw.githubusercontent.com/nived1967/IGBC-CET/main/public/assets/images/members/WhatsApp%20Image%202022-11-21%20at%2010.50.25%20AM.jpeg",
         alt: "Diya Ann Joy",
         title: "IGBC Volunteer"
     },
@@ -37,7 +37,7 @@ const members = [
     },
     {
         name: "Haritha Nair S H",
-        photo: "images/members/06.png",
+        photo: "https://raw.githubusercontent.com/nived1967/IGBC-CET/main/public/assets/images/members/WhatsApp%20Image%202022-11-21%20at%2011.52.46%20AM%20(1).jpeg",
         alt: "Haritha Nair S H",
         title: "IGBC Volunteer"
     },
@@ -49,7 +49,7 @@ const members = [
     },
     {
         name: "Abhinav K",
-        photo: "images/members/08.png",
+        photo: "https://raw.githubusercontent.com/nived1967/IGBC-CET/main/public/assets/images/members/IMG_20221121_103816.jpg",
         alt: "Abhinav K",
         title: "IGBC Volunteer"
     },
@@ -61,7 +61,7 @@ const members = [
     },
     {
         name: "Hala P A",
-        photo: "images/members/10.png",
+        photo: "https://raw.githubusercontent.com/nived1967/IGBC-CET/main/public/assets/images/members/WhatsApp%20Image%202022-11-21%20at%2010.33.08%20AM.jpeg",
         alt: "Hala P A",
         title: "IGBC Volunteer"
     },
