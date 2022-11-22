@@ -67,7 +67,7 @@ const members = [
     },
     {
         name: "Akshay Shajy",
-        photo: "images/members/11.png",
+        photo: "https://raw.githubusercontent.com/nived1967/IGBC-CET/main/public/assets/images/members/WhatsApp%20Image%202022-11-21%20at%2012.40.26%20PM.jpeg",
         alt: "Akshay Shajy",
         title: "IGBC Volunteer"
     },
@@ -100,12 +100,6 @@ const members = [
         photo: "",
         alt: "Muhammad Shaham",
         title: "Staff Coordinator"
-    },
-    {
-        name: "Amir",
-        photo: "",
-        alt: "Amir",
-        title: "IGBC Volunteer"
     },
     {
         name: "Mohammed Hashir K B",
