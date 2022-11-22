@@ -79,7 +79,7 @@ const members = [
     },
     {
         name: "Abhijith A K",
-        photo: "https://raw.githubusercontent.com/nived1967/IGBC-CET/main/public/assets/images/members/WhatsApp%20Image%202022-11-21%20at%2012.43.43%20PM.jpeg",
+        photo: "https://raw.githubusercontent.com/nived1967/IGBC-CET/main/public/assets/images/members/abhishek.jpeg",
         alt: "Abhijith A K",
         title: "IGBC Volunteer"
     },
