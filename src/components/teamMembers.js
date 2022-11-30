@@ -1,7 +1,7 @@
 const members = [
     {
         name: "Dr. Aysha",
-        photo: "1.jpg",
+        photo: "",
         alt: "Dr. Aysha",
         title: "Staff Coordinator"
     },
