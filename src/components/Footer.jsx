@@ -17,14 +17,14 @@ function Footer() {
             </div>
             <div className="footer-link-container">
                 <div>
-                    <a href="https://www.instagram.com/igbc_cusat/?hl=en" className="footer-link">
+                    <a href="https://www.instagram.com/igbconline/?hl=en" className="footer-link">
                         <FaInstagram 
                             className="footer-link"
                         />
                     </a>
                 </div>
                 <div>
-                    <a href="https://www.facebook.com/pages/category/Education/IGBC-SOE-CUSAT-Chapter-153245505390223/" className="footer-link">
+                    <a href="https://www.facebook.com/igbconline/" className="footer-link">
                         <FaFacebookSquare 
                             className={"footer-link"}
 
@@ -32,7 +32,7 @@ function Footer() {
                     </a>
                 </div>
                 <div>
-                    <a href="https://www.linkedin.com/company/igbc-cusat/about/" className="footer-link">
+                    <a href="https://www.linkedin.com/company/cii---indian-green-building-council-igbc-/" className="footer-link">
                         <FaLinkedin 
                             className="footer-link"
                         />
