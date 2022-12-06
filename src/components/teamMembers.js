@@ -1,9 +1,9 @@
 const members = [
     {
-        name: "Dr. Aysha",
-        photo: "",
-        alt: "Dr. Aysha",
-        title: "Staff Coordinator"
+        name: "Prof. Aysha S",
+        photo: "https://raw.githubusercontent.com/nived1967/IGBC-CET/main/public/assets/images/members/IMG-20221201-WA0014.jpg",
+        alt: "Prof. Aysha S",
+        title: "Mentor, IGBC - CET Student Chapter"
     },
     {
         name: "Usman A Asan",
@@ -133,7 +133,7 @@ const members = [
     },
     {
         name: "Aparna Joy",
-        photo: "",
+        photo: "https://raw.githubusercontent.com/nived1967/IGBC-CET/main/public/assets/images/members/IMG-20221130-WA0023.jpg",
         alt: "Aparna Joy",
         title: "IGBC Volunteer"
     }
